@@ -1,0 +1,100 @@
+﻿  Arcanoid.cpp
+  Ball.cpp
+C:\Users\julia\source\repos\Arcanoid\Ball.cpp(12,27): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\julia\source\repos\Arcanoid\Ball.cpp(12,18): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Block.cpp
+C:\Users\julia\source\repos\Arcanoid\Block.cpp(7,93): warning C4244: 'argument': conversion from 'const unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\julia\source\repos\Arcanoid\Block.cpp(7,90): warning C4244: 'argument': conversion from 'const unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\julia\source\repos\Arcanoid\Block.cpp(11,37): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\julia\source\repos\Arcanoid\Block.cpp(11,25): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  BlueBlock.cpp
+  Bonus.cpp
+C:\Users\julia\source\repos\Arcanoid\Bonus.cpp(21,34): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\julia\source\repos\Arcanoid\Bonus.cpp(22,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Button.cpp
+C:\Users\julia\source\repos\Arcanoid\Button.cpp(5,82): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\julia\source\repos\Arcanoid\Button.cpp(5,80): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\julia\source\repos\Arcanoid\Button.cpp(7,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julia\source\repos\Arcanoid\Button.cpp(7,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julia\source\repos\Arcanoid\Button.cpp(18,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\julia\source\repos\Arcanoid\Button.cpp(18,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\julia\source\repos\Arcanoid\Button.cpp(34,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\julia\source\repos\Arcanoid\Button.cpp(34,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GameHandler.cpp
+C:\Users\julia\source\repos\Arcanoid\GameHandler.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\julia\source\repos\Arcanoid\GameHandler.cpp(275,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\julia\source\repos\Arcanoid\GameHandler.cpp(275,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\julia\source\repos\Arcanoid\GameHandler.cpp(414,20): warning C4018: '<': signed/unsigned mismatch
+  GreenBlock.cpp
+  Menu.cpp
+C:\Users\julia\source\repos\Arcanoid\Menu.cpp(3,225): warning C4244: 'argument': conversion from 'const unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\julia\source\repos\Arcanoid\Menu.cpp(3,222): warning C4244: 'argument': conversion from 'const unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Paddle.cpp
+C:\Users\julia\source\repos\Arcanoid\Paddle.cpp(7,94): warning C4244: 'argument': conversion from 'const unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\julia\source\repos\Arcanoid\Paddle.cpp(7,92): warning C4244: 'argument': conversion from 'const unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\julia\source\repos\Arcanoid\Paddle.cpp(13,37): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\julia\source\repos\Arcanoid\Paddle.cpp(13,25): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  PinkBlock.cpp
+  WhiteBlock.cpp
+  YellowBlock.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 546 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Arcanoid.vcxproj -> C:\Users\julia\source\repos\Arcanoid\Release\Arcanoid.exe
